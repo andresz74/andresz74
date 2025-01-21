@@ -25,6 +25,7 @@ I'm a passionate frontend developer with a strong focus on **web development**, 
 - [Andres Website](https://andreszenteno.com)
 - [The Tech Pulse](https://blog.andreszenteno.com): It's a React Markdown blog,  it is a dynamic web application built using React.js and react-markdown to render Markdown content into styled HTML. It allows you to easily write and manage blog posts in Markdown format, leveraging Next.js for optimized performance with server-side rendering or static site generation.
 - [YouTube Transcript Fetcher](https://apps.andreszenteno.com/youtube-transcript/): It is a tool designed to simplify retrieving transcripts from YouTube videos. It allows users to extract subtitles in a structured format, making it easy to analyze, summarize, or repurpose video content.
+- [Weather App](https://weather.andreszenteno.com/weather): A responsive web application for checking weather forecasts for a selected location and time. The app dynamically fetches weather data from an API and visualizes it with interactive charts.
 
 ## 🎮 Fun Projects
 In my free time, I enjoy experimenting with creative frontend projects and interactive web experiences. Check out some of my fun side projects:  
